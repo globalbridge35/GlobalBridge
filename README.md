@@ -14,4 +14,4 @@ Global Bridge is an innovative platform designed to connect students, investors,
 ## Getting Started:
 1. Clone this repository using Git.
    ```bash
-   git clone https://github.com/your-username/globalbridge.git
+   git clone https://github.com/GlobalBridge35/globalbridge.git
