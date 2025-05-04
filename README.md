@@ -11,5 +11,4 @@ Global Bridge is an innovative platform designed to connect students, investors,
 - The platform is hosted on GitHub Pages: [Global Bridge](https://GlobalBridge35.github.io/globalbridge/)
 - To access the login page, visit: [Login Page](https://GlobalBridge35.github.io/globalbridge/login.html)
 
-git add .
-git commit -m "Add dashboard interface"
+
